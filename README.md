@@ -1,2 +1,0 @@
-# JaneClone
-Created with CodeSandbox
